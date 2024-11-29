@@ -1,4 +1,4 @@
-# 2024-MCST-Data-Utilization-Competition
+# 2024-MCST-Data-Utilization-Competition 🛏️
 
 🥇 주제 : 데이터 분석을 통한 문화체육관광 이슈와 정책 효과 분석 및 활용
 
